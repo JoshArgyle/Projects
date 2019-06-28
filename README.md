@@ -1,5 +1,5 @@
 # Projects
-This repository is a series of notebooks that show solutions for the projects at Dataquest.io.
+This repository is a series of notebooks giving examples of machine learning end-to-end projects.
 
 [Project: Predicting car prices](Car_prices.ipynb)  <br />
 [Project: Predicting house prices](House_prices.ipynb) <br />
